@@ -49,14 +49,14 @@
       "deviceSignature": "miKsH2pxCl+pmvlbW9solIsmn53XtZPnqBSsKq/tlsSg1Kcci+PVhE7PGa/ffZdvuzw0wRRX+DIHP89tv2FmBg=="
     },
     "me": {
-      "id": "94711540155:2@s.whatsapp.net",
-      "verifiedName": "",
+      "id": "94775589810:2@s.whatsapp.net",
+      "verifiedName": "TECHNO BIT",
       "name": "."
     },
     "signalIdentities": [
       {
         "identifier": {
-          "name": "94711540155:2@s.whatsapp.net",
+          "name": "94775589810:2@s.whatsapp.net",
           "deviceId": 0
         },
         "identifierKey": {
@@ -363,7 +363,7 @@
       }
     },
     "sessions": {
-      "94711540155.0": {
+      "94775589810.0": {
         "_sessions": {
           "BRRDPWrImLgWXhp76ZIMsk5vP/ANvrZuaUcaiuCErmhg": {
             "registrationId": 439099109,
